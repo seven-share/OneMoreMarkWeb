@@ -13,14 +13,8 @@ const defaultLocale = computed<SupportedLocale>(() => {
 })
 
 const targetPath = computed(() => `/${defaultLocale.value}/`)
-const linkText = computed(() => (defaultLocale.value === 'en' ? 'Enter English site' : '进入中文版'))
 
 onMounted(() => {
   window.location.replace(targetPath.value)
 })
 </script>
-
-<template>
-  <meta http-equiv="refresh" :content="`0; url=${targetPath}`">
-  <a :href="targetPath">{{ linkText }}</a>
-</template>
