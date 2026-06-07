@@ -4,7 +4,7 @@ title: About OneMoreMark
 category: Other
 categorySlug: other
 date: 2024-05-28
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 OneMoreMark is a content site for tools, resources, and practical knowledge management.

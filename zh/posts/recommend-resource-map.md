@@ -4,7 +4,7 @@ title: 个人资源地图搭建法
 category: 今日推荐
 categorySlug: recommend
 date: 2024-06-07
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 这是一篇用于测试分页效果的模拟文章。

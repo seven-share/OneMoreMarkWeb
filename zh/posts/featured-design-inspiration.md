@@ -4,7 +4,7 @@ title: 精选文章：设计灵感应该如何归档
 category: 精选文章
 categorySlug: featured
 date: 2024-05-22
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 灵感归档的关键不是收藏数量，而是检索方式。

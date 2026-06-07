@@ -4,7 +4,7 @@ title: 10 AI Writing Tools That Improve Content Workflows
 category: AI Tools
 categorySlug: ai-tools
 date: 2024-05-24
-cover: /images/articles/category.png
+cover: /images/homepage.png
 pinned: true
 ---
 

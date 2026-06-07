@@ -4,7 +4,7 @@ title: AI 搜索工具全面对比：找到最适合你的那一个
 category: AI 工具
 categorySlug: ai-tools
 date: 2024-05-20
-cover: /images/articles/post.png
+cover: /images/homepage.png
 pinned: true
 ---
 

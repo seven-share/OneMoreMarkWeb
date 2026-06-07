@@ -4,7 +4,7 @@ title: 10 Inspiration Sites Every Designer Should Bookmark
 category: Design Resources
 categorySlug: design-resources
 date: 2024-05-15
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 Design inspiration is most useful when it improves your visual judgment.

@@ -4,7 +4,7 @@ title: 今日推荐：把收藏变成可复访知识库的工作流
 category: 今日推荐
 categorySlug: recommend
 date: 2024-05-27
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 收藏夹真正的问题不是数量太多，而是缺少复访路径。

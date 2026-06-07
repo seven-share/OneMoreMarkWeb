@@ -4,7 +4,7 @@ title: AI 工具的未来趋势
 category: AI 工具
 categorySlug: ai-tools
 date: 2024-05-25
-cover: /images/articles/category.png
+cover: /images/homepage.png
 hot: true
 ---
 

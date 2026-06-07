@@ -4,7 +4,7 @@ title: 今日推荐：投资学习笔记模板
 category: 今日推荐
 categorySlug: recommend
 date: 2024-05-23
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 投资学习最怕只记结论，不记前提。

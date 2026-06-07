@@ -4,7 +4,7 @@ title: 今日推荐：用 AI 做高效阅读摘要
 category: 今日推荐
 categorySlug: recommend
 date: 2024-05-26
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 高效阅读不是把所有内容都读完，而是尽快判断一份材料是否值得深入。

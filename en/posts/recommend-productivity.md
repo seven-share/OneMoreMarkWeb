@@ -4,7 +4,7 @@ title: "Today's Pick: Turn Bookmarks Into a Revisit-Friendly Knowledge Base"
 category: Today's Picks
 categorySlug: recommend
 date: 2024-05-27
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 The problem with bookmarks is rarely volume alone. The real issue is the missing path back to what matters.

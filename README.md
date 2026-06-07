@@ -4,6 +4,8 @@ OneMoreMark Web 是一个基于 VitePress 的双语内容站主题。它围绕�
 
 这个项目不是默认文档站，而是一个内容型 VitePress 自定义主题：Markdown 负责内容和路由，Vue 组件负责页面结构，Content Loader 负责收集文章和分类数据。
 
+![OneMoreMark homepage showcase](/public/images/homepage.png)
+public/
 ## 技术栈
 
 - VitePress 1.x

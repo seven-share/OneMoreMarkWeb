@@ -4,7 +4,7 @@ title: 精选文章：如何让收藏真正产生价值
 category: 精选文章
 categorySlug: featured
 date: 2024-05-26
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 收藏的价值来自再利用，而不是保存本身。

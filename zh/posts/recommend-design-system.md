@@ -4,7 +4,7 @@ title: 今日推荐：从优秀界面中提炼设计系统
 category: 今日推荐
 categorySlug: recommend
 date: 2024-05-24
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 看设计案例时，不要只停留在视觉喜好。

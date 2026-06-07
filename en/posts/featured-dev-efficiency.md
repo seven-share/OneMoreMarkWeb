@@ -4,7 +4,7 @@ title: "Featured: Three Moves That Improve Developer Efficiency"
 category: Featured
 categorySlug: featured
 date: 2024-05-23
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 Developer efficiency usually comes from less friction, not more tools.

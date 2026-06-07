@@ -4,7 +4,7 @@ title: 今日推荐：Notion AI 知识整理流程
 category: 今日推荐
 categorySlug: recommend
 date: 2024-05-22
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 Notion AI 适合处理已经进入工作区的信息。

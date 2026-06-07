@@ -4,7 +4,7 @@ title: 精选文章：AI 搜索如何改变资料调研
 category: 精选文章
 categorySlug: featured
 date: 2024-05-24
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 AI 搜索改变的是调研路径，而不是判断责任。

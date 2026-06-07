@@ -4,7 +4,7 @@ title: The Future of AI Tools
 category: AI Tools
 categorySlug: ai-tools
 date: 2024-05-25
-cover: /images/articles/category.png
+cover: /images/homepage.png
 hot: true
 ---
 

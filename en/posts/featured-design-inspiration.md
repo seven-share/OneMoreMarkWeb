@@ -4,7 +4,7 @@ title: "Featured: How to Archive Design Inspiration"
 category: Featured
 categorySlug: featured
 date: 2024-05-22
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 The value of a design reference library depends on retrieval.

@@ -4,7 +4,7 @@ title: 关于 OneMoreMark
 category: 其他资源
 categorySlug: other
 date: 2024-05-28
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 OneMoreMark 是一个面向工具、资源和知识管理的内容站。

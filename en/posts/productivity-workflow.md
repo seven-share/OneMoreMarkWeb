@@ -4,7 +4,7 @@ title: Productivity Workflow Guide
 category: Productivity
 categorySlug: productivity
 date: 2024-05-14
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 Productivity tools should support a stable workflow instead of creating another thing to maintain.

@@ -6,6 +6,16 @@ defineProps<{
   compact?: boolean
   hideMeta?: boolean
 }>()
+
+function formatDate(date: string) {
+  const parsed = new Date(date)
+
+  if (Number.isNaN(parsed.getTime())) {
+    return String(date).slice(0, 10)
+  }
+
+  return parsed.toISOString().slice(0, 10)
+}
 </script>
 
 <template>
@@ -16,7 +26,7 @@ defineProps<{
     <div class="article-card-body">
       <div v-if="!hideMeta" class="article-card-meta">
         <span v-if="post.pinned" class="pinned">{{ post.locale === 'en' ? 'Pinned' : '置顶' }}</span>
-        <time>{{ post.date }}</time>
+        <time>{{ formatDate(post.date) }}</time>
       </div>
       <h3>{{ post.title }}</h3>
     </div>

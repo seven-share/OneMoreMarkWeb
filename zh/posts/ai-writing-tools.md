@@ -4,7 +4,7 @@ title: 10 款最佳 AI 写作工具，帮你提升内容创作效率
 category: AI 工具
 categorySlug: ai-tools
 date: 2024-05-24
-cover: /images/articles/category.png
+cover: /images/homepage.png
 pinned: true
 ---
 

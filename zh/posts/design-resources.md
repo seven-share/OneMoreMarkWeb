@@ -4,7 +4,7 @@ title: 设计师必看的 10 个灵感网站
 category: 设计资源
 categorySlug: design-resources
 date: 2024-05-15
-cover: /images/articles/home.png
+cover: /images/homepage.png
 ---
 
 灵感网站的价值不只是好看，更重要的是帮助你建立视觉判断。

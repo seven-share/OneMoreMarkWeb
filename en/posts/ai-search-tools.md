@@ -4,7 +4,7 @@ title: Complete Comparison of AI Search Tools
 category: AI Tools
 categorySlug: ai-tools
 date: 2024-05-20
-cover: /images/articles/post.png
+cover: /images/homepage.png
 pinned: true
 ---
 

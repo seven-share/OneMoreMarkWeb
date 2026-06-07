@@ -4,7 +4,7 @@ title: 精选文章：建立长期学习系统
 category: 精选文章
 categorySlug: featured
 date: 2024-05-21
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 学习系统的核心是闭环。

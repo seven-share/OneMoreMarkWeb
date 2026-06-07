@@ -4,7 +4,7 @@ title: "Featured: Build a Long-Term Learning System"
 category: Featured
 categorySlug: featured
 date: 2024-05-21
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 A learning system needs a feedback loop.

@@ -4,7 +4,7 @@ title: "Featured: How to Make Saved Links Actually Useful"
 category: Featured
 categorySlug: featured
 date: 2024-05-26
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 The value of a bookmark comes from reuse, not storage.

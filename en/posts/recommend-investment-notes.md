@@ -4,7 +4,7 @@ title: "Today's Pick: An Investment Learning Notes Template"
 category: Today's Picks
 categorySlug: recommend
 date: 2024-05-23
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 Investment notes should preserve the reasoning behind a conclusion.

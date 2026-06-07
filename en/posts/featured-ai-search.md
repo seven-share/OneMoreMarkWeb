@@ -4,7 +4,7 @@ title: "Featured: How AI Search Changes Research"
 category: Featured
 categorySlug: featured
 date: 2024-05-24
-cover: /images/articles/post.png
+cover: /images/homepage.png
 ---
 
 AI search is useful because it helps build an initial map of a topic.

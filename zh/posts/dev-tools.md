@@ -4,7 +4,7 @@ title: 程序员必备的 15 个开发工具
 category: 开发工具
 categorySlug: dev-tools
 date: 2024-05-18
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 好的开发工具不会替代工程判断，但能减少重复劳动，让你把更多注意力放在真正重要的问题上。

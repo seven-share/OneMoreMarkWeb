@@ -4,7 +4,7 @@ title: 阅读进度仪表盘
 category: 今日推荐
 categorySlug: recommend
 date: 2024-06-05
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 这是一篇用于测试分页效果的模拟文章。

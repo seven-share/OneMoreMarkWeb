@@ -4,7 +4,7 @@ title: "Today's Pick: A Notion AI Knowledge Workflow"
 category: Today's Picks
 categorySlug: recommend
 date: 2024-05-22
-cover: /images/articles/category.png
+cover: /images/homepage.png
 ---
 
 Notion AI is most useful for information that already lives in your workspace.
