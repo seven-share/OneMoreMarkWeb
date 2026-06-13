@@ -1,0 +1,21 @@
+{
+  "featuredLink": {
+    "enabled": true,
+    "showRedDot": true,
+    "text": "更多精彩",
+    "url": "https://onemoremark.pages.dev",
+    "version": "2026-06-13-001"
+  },
+  "recommendedBookmarks": [
+    {
+      "title": "OneMoreMark 官网",
+      "url": "https://onemoremark.pages.dev",
+      "icon": ""
+    },
+    {
+      "title": "YouTube 首页",
+      "url": "https://www.youtube.com",
+      "icon": ""
+    }
+  ]
+}
