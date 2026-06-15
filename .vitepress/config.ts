@@ -4,6 +4,10 @@ export default defineConfig({
   title: 'OneMoreMark',
   description: '让每一次收藏都有价值。',
   cleanUrls: true,
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }]
+  ],
   srcExclude: ['开发规划.md'],
   lastUpdated: false,
   themeConfig: {
