@@ -12,12 +12,12 @@ const aboutLink = computed(() => (isEnglish.value ? '/en/posts/about' : '/zh/pos
 <template>
   <header class="site-header">
     <a class="brand" :href="isEnglish ? '/en/' : '/zh/'">
-      <span class="brand-mark" aria-hidden="true"></span>
+      <img class="brand-logo" :src="'/logo.png'" alt="" width="38" height="38" />
       <span>OneMoreMark</span>
     </a>
 
     <nav class="site-nav" aria-label="Primary navigation">
-      <a :href="aboutLink">{{ isEnglish ? 'About' : '关于' }}</a>
+      <a class="about-nav-link" :href="aboutLink">{{ isEnglish ? 'About' : '关于' }}</a>
       <LanguageSelect />
       <ThemeToggle />
     </nav>

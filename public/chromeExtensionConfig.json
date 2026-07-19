@@ -5,11 +5,11 @@
     "locales": {
       "zh-CN": {
         "text": "更多精彩",
-        "url": "https://onemoremark.pages.dev/zh/"
+        "url": "https://onemoremarkio.com/zh/"
       },
       "en": {
         "text": "More",
-        "url": "https://onemoremark.pages.dev/en/"
+        "url": "https://onemoremarkio.com/en/"
       }
     },
     "version": "2026-06-13-001"
@@ -17,7 +17,7 @@
   "recommendedBookmarks": [
     {
       "title": "OneMoreMark 官网",
-      "url": "https://onemoremark.pages.dev",
+      "url": "https://onemoremarkio.com",
       "icon": ""
     },
     {
