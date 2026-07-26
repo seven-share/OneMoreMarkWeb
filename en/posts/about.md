@@ -12,7 +12,13 @@ If your browser bookmark bar is already too crowded, your bookmark folders keep 
 <br><br>
 It is not here to make you “save more links.” It helps you put the websites you have saved, want to save, or have not had time to organize yet into a clearer new tab workspace. Every time you open a new tab, you can return to your own resource map instead of digging through the bookmark bar, browser history, and a long row of open tabs.
 
-![OneMoreMark new tab bookmark manager](/images/about/en/hero.png)
+![OneMoreMark new tab bookmark manager](./about/hero.png)
+
+## OneMoreMark Mainly Does Three Things
+
+- Turns the Chrome new tab page into a card-based bookmark panel, making saved websites easier to see and organize.
+- Syncs bookmarks and categories through Cloudflare cloud sync, so you can sign in with an email verification code and use the same collection across any device.
+- Shares an entire category as a public collection, so others can view it on the web without installing the extension, and the shared page stays updated as the category changes.
 
 ## What OneMoreMark Solves
 
@@ -31,7 +37,7 @@ OneMoreMark takes a direct approach: move these websites out of the crowded book
 
 After installing OneMoreMark, your Chrome new tab page becomes a visual bookmark panel. Categories stay on the left, website cards stay on the right, and you can organize resources around the way you actually work.
 
-![New tab bookmark workspace](/images/about/en/newtab-workbench.png)
+![New tab bookmark workspace](./about/newtab-workbench.png)
 
 It is useful for managing:
 
@@ -46,7 +52,7 @@ In the new tab page, you can create categories, rename categories, drag to reord
 
 When you find a page worth keeping, click the OneMoreMark icon in the browser toolbar, choose a category in the popup, and save the current page.
 
-![Save a website in one click](/images/about/en/save-current-page.png)
+![Save a website in one click](./about/save-current-page.png)
 
 This is useful for pages that you may need later, but do not want to interrupt your current work to organize immediately. Save them to a suitable category first, then refine the structure from the new tab page later.
 
@@ -58,27 +64,33 @@ During research, comparison, documentation lookup, or inspiration hunting, it is
 
 OneMoreMark can save the bookmarkable tabs in the current window in one action and archive them into a temporary category. You can put the work session away first, bring the browser back to a cleaner state, and review those pages later.
 
+## Share A Category As A Public Collection
+
+When you want to share a curated set of websites, OneMoreMark can turn an entire category into a public collection page. Add a short note, copy the share link, and send it to friends, teammates, readers, or yourself on another device.
+
+Shared collections open on the OneMoreMark website, so other people can view the links without installing the extension first. After sharing, if the category content changes, the public collection page stays updated with it.
+
 ## Import, Export, And Sync
 
 If you already have a collection of Chrome bookmarks, you can import them into OneMoreMark through a bookmark HTML file. If you want to back up or migrate your data, you can export your OneMoreMark collection as a Chrome-compatible bookmark file.
 
-![Import, export, and sync](/images/about/en/import-export-sync.png)
+![Import, export, and sync](./about/import-export-sync.png)
 
 OneMoreMark currently supports:
 
 - Importing Chrome bookmark HTML files.
 - Exporting current bookmarks as an HTML file.
 - Preserving the category structure.
-- Syncing bookmark data when Chrome sync is available.
+- Syncing bookmark data through OneMoreMark Cloud Sync powered by Cloudflare.
 - Viewing local and cloud sync status.
 
-Your bookmark data is stored in browser storage. OneMoreMark does not add a separate account system, and it does not force your collection into a specific cloud service. You can use Chrome sync, or manually back up your data through exported files.
+Your bookmark data is stored locally in browser storage by default. When you sign in with an email verification code, OneMoreMark can sync your bookmarks and categories through Cloudflare cloud sync, so you can use the same collection across any device. You can still manually back up or migrate your data through exported files.
 
 ## Details For Daily Use
 
 OneMoreMark does not try to be complicated. It tries to make bookmark management feel smooth in daily use. Categories stay fixed on the left, content stays focused on the right, search remains visible, and import/export, sync status, and theme switching live in the tool area until you need them.
 
-![Dark theme](/images/about/en/dark-theme.png)
+![Dark theme](./about/dark-theme.png)
 
 The plugin currently supports:
 
@@ -88,7 +100,8 @@ The plugin currently supports:
 - Bookmark card sorting and moving across categories.
 - Search by title and URL.
 - Chrome bookmark HTML import and export.
-- Chrome sync status viewing and manual sync.
+- OneMoreMark Cloud Sync status viewing and manual sync.
+- Public category sharing.
 - Light, dark, and browser-matched themes.
 - Simplified Chinese and English interfaces.
 
@@ -98,7 +111,7 @@ If you just want to use it normally, installing from the Chrome Web Store is rec
 
 **Click to install: Chrome Web Store - OneMoreMark**
 
-[https://chromewebstore.google.com/detail/tabcard/mimfanignegkbnkcenlnkpigpnpkmbgk](https://chromewebstore.google.com/detail/tabcard/mimfanignegkbnkcenlnkpigpnpkmbgk)
+[https://chromewebstore.google.com/detail/onemoremark/mimfanignegkbnkcenlnkpigpnpkmbgk](https://chromewebstore.google.com/detail/onemoremark/mimfanignegkbnkcenlnkpigpnpkmbgk)
 
 If the Chrome Web Store is temporarily unavailable, or if you prefer manual installation, you can download the extension package from GitHub Releases. If GitHub is difficult to access, you can also use the Gitee repository and Gitee Releases.
 

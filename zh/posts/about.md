@@ -11,7 +11,13 @@ pinned: true
 <br><br>
 它不是让你“多收藏一点”，而是帮你把已经收藏、准备收藏、暂时还没来得及整理的网站，放进一个更清晰的新标签页工作台里。你每次打开新标签页，都能看到自己的资源地图，而不是重新在书签栏、历史记录和一排标签页里翻找。
 
-![OneMoreMark 新标签页书签管理插件](/images/about/hero.png)
+![OneMoreMark 新标签页书签管理插件](./about/hero.png)
+
+## OneMoreMark 主要做三件事
+
+- 把 Chrome 新标签页变成卡片式书签面板，让收藏网站更直观地看见和整理。
+- 通过 Cloudflare 云同步收藏和分类，用邮箱验证码登录后即可在任何设备同步使用。
+- 将整个分类分享成公开收藏夹，对方无需安装插件，也能通过网页查看，并随分类更新保持同步。
 
 ## OneMoreMark 解决什么问题
 
@@ -30,7 +36,7 @@ OneMoreMark 的思路很直接：把这些网站从拥挤的书签栏里拿出�
 
 安装 OneMoreMark 后，Chrome 新标签页会变成一个可视化书签面板。左侧是分类，右侧是网站卡片，你可以按自己的工作方式整理资源。
 
-![新标签页书签工作台](/images/about/newtab-workbench.png)
+![新标签页书签工作台](./about/newtab-workbench.png)
 
 它适合用来管理这些内容：
 
@@ -45,7 +51,7 @@ OneMoreMark 的思路很直接：把这些网站从拥挤的书签栏里拿出�
 
 看到值得留下的网页时，点击浏览器工具栏里的 OneMoreMark 图标，就可以在弹窗里选择分类并保存当前页面。
 
-![一键收藏网站](/images/about/save-current-page.png)
+![一键收藏网站](./about/save-current-page.png)
 
 这个动作适合处理那些“以后可能还会用到，但现在不想打断工作去整理”的网页。先保存到合适分类，之后再在新标签页里统一调整。
 
@@ -57,27 +63,33 @@ OneMoreMark 的思路很直接：把这些网站从拥挤的书签栏里拿出�
 
 OneMoreMark 支持一键保存当前窗口中的可收藏标签页，并归档到临时分类中。你可以先把工作现场收起来，让浏览器恢复清爽，等有时间再慢慢筛选和整理。
 
+## 将分类分享成公开收藏夹
+
+当你想把一组整理好的网站分享出去时，OneMoreMark 可以将整个分类生成公开收藏页面。你可以写一段留言，复制分享链接，然后发给朋友、团队成员、读者，或者发给另一台设备上的自己。
+
+分享后的收藏夹会在 OneMoreMark 网站中打开，对方无需先安装插件，也可以直接查看这些网站链接。分享后如果分类内容更新，公开收藏页面也会跟随更新。
+
 ## 导入、导出与同步
 
 如果你已经有一批 Chrome 书签，可以通过书签 HTML 文件导入 OneMoreMark；如果你想备份或迁移，也可以把 OneMoreMark 里的收藏导出为兼容 Chrome 的书签文件。
 
-![导入导出与同步](/images/about/import-export-sync.png)
+![导入导出与同步](./about/import-export-sync.png)
 
 OneMoreMark 当前支持：
 
 - 导入 Chrome 书签 HTML 文件。
 - 导出当前收藏为 HTML 文件。
 - 按分类保留收藏结构。
-- 在 Chrome 同步可用时同步收藏数据。
+- 通过基于 Cloudflare 的 OneMoreMark Cloud Sync 同步收藏数据。
 - 查看本地与云端同步状态。
 
-你的收藏数据保存在浏览器存储中。OneMoreMark 没有额外的账号系统，也不会把你的收藏强制绑定到某个云端服务；你可以用 Chrome 同步，也可以用导出文件做手动备份。
+你的收藏数据默认保存在浏览器本地存储中。使用邮箱验证码登录后，OneMoreMark 可以通过 Cloudflare 云同步收藏和分类数据，让你在任何设备同步使用；你也仍然可以通过导出文件手动备份或迁移。
 
 ## 为日常使用准备的细节
 
 OneMoreMark 不追求复杂，而是尽量让收藏管理这件事变得顺手。分类固定在左侧，内容集中在右侧，搜索入口保持可见，导入导出、同步状态和主题切换放在工具区，需要时再打开。
 
-![深色主题](/images/about/dark-theme.png)
+![深色主题](./about/dark-theme.png)
 
 当前插件已支持：
 
@@ -87,7 +99,8 @@ OneMoreMark 不追求复杂，而是尽量让收藏管理这件事变得顺手�
 - 收藏卡片拖拽排序和跨分类移动。
 - 标题与 URL 搜索。
 - Chrome 书签 HTML 导入和导出。
-- Chrome 同步状态查看与手动同步。
+- OneMoreMark Cloud Sync 状态查看与手动同步。
+- 分类收藏夹公开分享。
 - 浅色、深色、跟随浏览器主题。
 - 简体中文和英文界面。
 
@@ -97,7 +110,7 @@ OneMoreMark 不追求复杂，而是尽量让收藏管理这件事变得顺手�
 
 **点击安装：Chrome 网上应用店 - OneMoreMark**
 
-[https://chromewebstore.google.com/detail/tabcard/mimfanignegkbnkcenlnkpigpnpkmbgk](https://chromewebstore.google.com/detail/tabcard/mimfanignegkbnkcenlnkpigpnpkmbgk)
+[https://chromewebstore.google.com/detail/onemoremark/mimfanignegkbnkcenlnkpigpnpkmbgk](https://chromewebstore.google.com/detail/onemoremark/mimfanignegkbnkcenlnkpigpnpkmbgk)
 
 如果 Chrome 商店暂时无法访问，或者你希望手动安装，也可以从 GitHub Release 下载插件安装包。国内访问 GitHub 不方便时，可以使用 Gitee 仓库和 Gitee Release。
 
@@ -117,7 +130,7 @@ OneMoreMark 不追求复杂，而是尽量让收藏管理这件事变得顺手�
 
 [https://gitee.com/helloxiaotong/OneMoreMark/releases](https://gitee.com/helloxiaotong/OneMoreMark/releases)
 
-### **手动安装步骤：**
+### **手动安装步骤**
 
 1. 打开 GitHub Releases 或 Gitee Releases 页面，下载最新版本的压缩包。
 2. 将压缩包解压到本地文件夹。
